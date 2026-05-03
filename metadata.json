@@ -1,0 +1,12 @@
+{
+  "name": "Election Process Assistant",
+  "description": "An interactive, horizontal-scrolling election lifecycle guide with micro-quizzes, localized civic resource detection, and a nonpartisan AI assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI-powered interactive educational assistant",
+    "Multi-stage election lifecycle walkthrough",
+    "Interactive quizzes and progress checklists"
+  ]
+}
